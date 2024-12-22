@@ -1,0 +1,1 @@
+import healthBar from './js/app'
