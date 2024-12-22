@@ -29,12 +29,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Nomober/Unit-tests.git"
+    "url": "git+https://github.com/Nomober/Unit-test-1.git"
   },
   "bugs": {
-    "url": "https://github.com/Nomober/Unit-tests/issues"
+    "url": "https://github.com/Nomober/Unit-test-1/issues"
   },
-  "homepage": "https://github.com/Nomober/Unit-tests#readme",
+  "homepage": "https://github.com/Nomober/Unit-test-1#readme",
   "dependencies": {
     "accepts": "^1.3.8",
     "acorn": "^8.10.0",
