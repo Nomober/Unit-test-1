@@ -1,1 +1,1 @@
-import healthBar from './js/app'
+import './js/app'
